@@ -1,0 +1,7 @@
+{
+  "name": "spark",
+  "workspaces": [
+    "packages/client",
+    "packages/api"
+  ]
+}
